@@ -1,0 +1,13 @@
+The set includes three different types of flower:
+- setosa
+- versicolour
+- virginica
+
+According the features values, the classifier can
+classify a flower (iris) into one of these classes.
+
+WARNING: It's necessary install graphviz: 
+
+            sudo apt-get install graphviz 
+
+(to create final PDF of decision tree)
